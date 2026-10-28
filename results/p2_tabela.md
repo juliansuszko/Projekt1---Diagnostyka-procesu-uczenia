@@ -1,0 +1,9 @@
+| eksperyment | best_val_bce | best_epoch | last_epoch_val_bce |
+| --- | --- | --- | --- |
+| baselineSGD | 0.5414 | 37 | 0.5458 |
+| lr_2.0 | 0.6388 | 19 | 0.9994 |
+| lr_2.0_clipnorm | 0.6132 | 8 | 0.8555 |
+| lr_2.0_reduce_lr | 0.6120 | 18 | 0.7521 |
+| lr_5.0 | 1.3623 | 2 | 1.3623 |
+| lr_5.0_clipnorm | 0.7276 | 4 | 1.3633 |
+| lr_5.0_reduce_lr | 0.6931 | 36 | 0.6932 |
